@@ -1,8 +1,8 @@
-## Bem Vindos ao Meu Perfil 
+## Welcome to My Profile
 
-#### Graduated in Production Engineering
+#### Graduated in Production Engineering at PUCRS
 
-
+#### Data Analyst constantly developing my skills in Python and R
 
 
 
