@@ -7,7 +7,7 @@
           
           
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
-                        width="17px"/>[LinkedIn Profile](https://www.linkedin.com/in/vitor-marinho-kalil-a141a1198/) 
+                        width="17px"/> [LinkedIn Profile](https://www.linkedin.com/in/vitor-marinho-kalil-a141a1198/) 
           
 
 <!--
