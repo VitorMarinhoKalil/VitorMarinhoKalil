@@ -2,7 +2,12 @@
 
 #### Graduated in Production Engineering at PUCRS
 
-#### Data Analyst constantly developing my skills in Python 
+#### Data Analyst constantly developing my skills in Python and R
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="17px"/> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="17px"/>
+          
+          
           
 [LinkedIn Profile](https://www.linkedin.com/in/vitor-marinho-kalil-a141a1198/) 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
