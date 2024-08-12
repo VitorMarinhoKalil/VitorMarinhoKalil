@@ -1,4 +1,10 @@
-## Hi there 👋
+## Bem Vindos ao Meu Perfil 
+
+#### Graduated in Production Engineering
+
+
+
+
 
 <!--
 **VitorMarinhoKalil/VitorMarinhoKalil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- INFO
+# ou ## para tamanhos de letra
+*x* para italico **x** para negrito e ***x*** para os dois
+- para lista 1. para lista enumerada
+[Texto da imagem](link da imagem)
+![Texto da imagem](link)
+`crase`para colocar código em linha e ```para blocos```
+> Texto da citação
+-------------------- para fazer linhas
+| xxxx | xxxx |
+|------|------| para criar cabeçlho
+
+[x] ou [] para checklist
+ -->
