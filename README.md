@@ -8,7 +8,10 @@
           
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
                         width="20px"/> [LinkedIn Profile](https://www.linkedin.com/in/vitor-marinho-kalil-a141a1198/) 
-          
+
+<!------
+| Cursos | Certificados |
+| -------| ------------ |
 
 <!--
 **VitorMarinhoKalil/VitorMarinhoKalil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
