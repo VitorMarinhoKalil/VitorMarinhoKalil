@@ -1,6 +1,6 @@
 ## Welcome to My Profile
 
-<img src="https://foprop.org.br/wp-content/uploads/jet-engine-forms/guest/2023/02/pucrs.png"/> Graduated in Production Engineering at PUCRS
+<img src="https://foprop.org.br/wp-content/uploads/jet-engine-forms/guest/2023/02/pucrs.png" width="20px"/> Graduated in Production Engineering at PUCRS
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="20px"/> **Data Analyst constantly developing my skills in Python and R** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="20px"/>
           
