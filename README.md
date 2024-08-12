@@ -2,7 +2,7 @@
 
 #### Graduated in Production Engineering at PUCRS
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="23px"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="23px"/> **Data Analyst constantly developing my skills in Python and R**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="20px"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="20px"/> **Data Analyst constantly developing my skills in Python and R**
           
           
           
