@@ -1,6 +1,6 @@
 ## Welcome to My Profile
 
-<img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Ffoprop.org.br%2Ffiliados-foprop%2Fpontificia-universidade-catolica-do-rio-grande-do-sul%2F&psig=AOvVaw1HGF9qlXua9wsC3I8APNWV&ust=1723568084044000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJD-oM3174cDFQAAAAAdAAAAABAE](https://www.google.com/url?sa=i&url=https%3A%2F%2Frepositorio.pucrs.br%2Fdspace%2Fhandle%2F10923%2F5904&psig=AOvVaw1HGF9qlXua9wsC3I8APNWV&ust=1723568084044000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJD-oM3174cDFQAAAAAdAAAAABAb)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FPontif%25C3%25ADcia_Universidade_Cat%25C3%25B3lica_do_Rio_Grande_do_Sul&psig=AOvVaw1HGF9qlXua9wsC3I8APNWV&ust=1723568084044000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJD-oM3174cDFQAAAAAdAAAAABAg)"/> Graduated in Production Engineering at PUCRS
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FPontif%25C3%25ADcia_Universidade_Cat%25C3%25B3lica_do_Rio_Grande_do_Sul&psig=AOvVaw1HGF9qlXua9wsC3I8APNWV&ust=1723568084044000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJD-oM3174cDFQAAAAAdAAAAABAm"/> Graduated in Production Engineering at PUCRS
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="20px"/> **Data Analyst constantly developing my skills in Python and R** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="20px"/>
           
